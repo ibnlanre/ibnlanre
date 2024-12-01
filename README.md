@@ -6,7 +6,6 @@
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&color=brightgreen)
 [![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/ibnlanre?tab=repositories)
 
-<br />
 ---
 
 ## 🙂 About Me  
