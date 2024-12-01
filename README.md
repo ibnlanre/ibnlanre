@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ibnlanre&color=blueviolet&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/ibnlanre?style=for-the-badge&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/ibnlanre?style=for-the-badge&color=yellow)
-![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&color=brightgreen)
 [![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/ibnlanre?tab=repositories)
 
 ---
@@ -59,7 +59,7 @@ I'm an active contributor to open-source projects, focusing on improving the dev
 
 ## 📈 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ibnlanre&card_height=165)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=ibnlanre&card_height=160&hide_longest_streak=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnlanre&layout=compact&theme=default)  
 
 ---
