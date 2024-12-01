@@ -1,5 +1,9 @@
 # Hi there! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=ibnlanre&color=blueviolet&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/ibnlanre?style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/ibnlanre?style=for-the-badge&color=yellow)
+
 I'm Ridwan, a **Senior Frontend Engineer and Engineering Lead** passionate about crafting pixel-perfect, intuitive, and scalable applications. My journey began as a product designer, and over a decade, I've transitioned into engineering leadership, where I now mentor and manage front-end teams across multiple teams.  
 
 ---
@@ -7,9 +11,8 @@ I'm Ridwan, a **Senior Frontend Engineer and Engineering Lead** passionate about
 
 ## 🙂 About Me  
 
-![Profile Views](https://komarev.com/ghpvc/?username=ibnlanre&color=blueviolet&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/ibnlanre?style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/ibnlanre?style=for-the-badge&color=yellow)
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&color=brightgreen)
+[![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/ibnlanre?tab=repositories)
 
 I've worked on impactful projects across industries like **Oil and Gas**, **Real Estate**, **Agriculture**, and **Fintech**, bringing ideas to life with technologies like **React**, **TypeScript**, and **Figma**.  
 
@@ -50,7 +53,7 @@ When I'm not building UIs, you’ll find me:
 ---
 <br />
 
-## 🌍 Open Source Contributions
+## ⭐ Open Source Contributions
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -60,16 +63,6 @@ I'm an active contributor to open-source projects, focusing on improving the dev
 - Simplify complex frontend tasks.
 - Enhance performance and scalability.
 - Promote accessibility and usability.
-
----
-<br />
-
-## ⭐ GitHub Stats
-
-![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&color=brightgreen)
-[![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/ibnlanre?tab=repositories)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnlanre&layout=compact&theme=default)  
 
 ---
 <br />
