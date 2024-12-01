@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ridwan Olanrewaju  
+# Hi there! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ibnlanre&color=blueviolet&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/ibnlanre?style=for-the-badge&color=blue)
@@ -6,13 +6,13 @@
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&color=brightgreen)
 [![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/ibnlanre?tab=repositories)
 
----
 
-## 👨‍💻 About Me  
+## 🙂 About Me  
 
-Hi, I'm Ridwan, a **Senior Frontend Engineer and Engineering Lead** passionate about crafting pixel-perfect, intuitive, and scalable applications. My journey began as a product designer, and over a decade, I've transitioned into engineering leadership, where I now mentor and manage front-end teams across organizations.  
+I'm Ridwan, a **Senior Frontend Engineer and Engineering Lead** passionate about crafting pixel-perfect, intuitive, and scalable applications. My journey began as a product designer, and over a decade, I've transitioned into engineering leadership, where I now mentor and manage front-end teams across multiple teams.  
 
 I've worked on impactful projects across industries like **Oil and Gas**, **Real Estate**, **Agriculture**, and **Fintech**, bringing ideas to life with technologies like **React**, **TypeScript**, and **Figma**.  
+
 
 ## 🔥 Tech Stack
 
@@ -34,10 +34,9 @@ I've worked on impactful projects across industries like **Oil and Gas**, **Real
 
 When I'm not building UIs, you’ll find me:  
 - 📖 **Creating open-source libraries** to solve challenges in the React ecosystem.  
-- 🎬 **Searching for the perfect movie** to watch while eating (recommendations are welcome!).  
-- 🕹️ **Playing football games** or scrolling through YouTube Shorts for inspiration.  
+- 🎥 **Watching tech conference replays** to stay inspired and informed (recommendations are welcome!).
+- 📚 **Teaching tech concepts** and sharing knowledge on [LinkedIn](https://linkedin.com/in/ibnlanre) and [X](https://www.x.com/ibnlanre)
 
----
 
 ## 🚀 Skills
 
@@ -46,7 +45,6 @@ When I'm not building UIs, you’ll find me:
 - **Engineering Leadership**: Mentorship, Agile Processes, Cross-Team Collaboration  
 - **Dev Tools**: Git, Webpack, Storybook, Vite  
 
----
 
 ## 🌍 Open Source Contributions  
 
@@ -55,21 +53,16 @@ I'm an active contributor to open-source projects, focusing on improving the dev
 - Enhance performance and scalability.
 - Promote accessibility and usability.
 
----
 
-## 📈 GitHub Stats  
+## 𝕏 GitHub Stats  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ibnlanre&card_height=160&hide_longest_streak=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnlanre&layout=compact&theme=default)  
 
----
 
-## 🎯 Let's Connect!  
+## 📬 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/ibnlanre)
-- 🌐 [Portfolio](https://ibnlanre.vercel.app)
+If you find my work helpful, feel free to star my projects or reach out for collaboration. Let’s build something amazing together!
+
+- 🌐 **Portfolio**: [https://ibnlanre.vercel.app](https://ibnlanre.vercel.app)
 - 📧 **Email**: [olaitanlanre28@gmail.com](mailto:olaitanlanre28@gmail.com)
-
----
-
-⭐ **If you find my work helpful, feel free to star my projects or reach out for collaboration. Let’s build something amazing together!** ⭐
