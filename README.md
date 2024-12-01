@@ -1,16 +1,17 @@
 # Hi there! 👋
 
+I'm Ridwan, a **Senior Frontend Engineer and Engineering Lead** passionate about crafting pixel-perfect, intuitive, and scalable applications. My journey began as a product designer, and over a decade, I've transitioned into engineering leadership, where I now mentor and manage front-end teams across multiple teams.  
+
+---
+<br />
+
+## 🙂 About Me  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ibnlanre&color=blueviolet&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/ibnlanre?style=for-the-badge&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/ibnlanre?style=for-the-badge&color=yellow)
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&color=brightgreen)
 [![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/ibnlanre?tab=repositories)
-
----
-
-## 🙂 About Me  
-
-I'm Ridwan, a **Senior Frontend Engineer and Engineering Lead** passionate about crafting pixel-perfect, intuitive, and scalable applications. My journey began as a product designer, and over a decade, I've transitioned into engineering leadership, where I now mentor and manage front-end teams across multiple teams.  
 
 I've worked on impactful projects across industries like **Oil and Gas**, **Real Estate**, **Agriculture**, and **Fintech**, bringing ideas to life with technologies like **React**, **TypeScript**, and **Figma**.  
 
