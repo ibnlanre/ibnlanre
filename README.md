@@ -10,8 +10,6 @@ I'm Ridwan, a **Senior Frontend Engineer and Engineering Lead** passionate about
 ![Profile Views](https://komarev.com/ghpvc/?username=ibnlanre&color=blueviolet&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/ibnlanre?style=for-the-badge&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/ibnlanre?style=for-the-badge&color=yellow)
-![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&color=brightgreen)
-[![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/ibnlanre?tab=repositories)
 
 I've worked on impactful projects across industries like **Oil and Gas**, **Real Estate**, **Agriculture**, and **Fintech**, bringing ideas to life with technologies like **React**, **TypeScript**, and **Figma**.  
 
@@ -66,7 +64,10 @@ I'm an active contributor to open-source projects, focusing on improving the dev
 ---
 <br />
 
-## ⭐ GitHub Stats  
+## ⭐ GitHub Stats
+
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&color=brightgreen)
+[![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/ibnlanre?tab=repositories)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnlanre&layout=compact&theme=default)  
 
