@@ -6,6 +6,7 @@
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&color=brightgreen)
 [![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/ibnlanre?tab=repositories)
 
+---
 <br />
 
 ## 🙂 About Me  
@@ -14,6 +15,7 @@ I'm Ridwan, a **Senior Frontend Engineer and Engineering Lead** passionate about
 
 I've worked on impactful projects across industries like **Oil and Gas**, **Real Estate**, **Agriculture**, and **Fintech**, bringing ideas to life with technologies like **React**, **TypeScript**, and **Figma**.  
 
+---
 <br />
 
 ## 🔥 Tech Stack
@@ -39,6 +41,7 @@ When I'm not building UIs, you’ll find me:
 - 🎥 **Watching tech conference replays** to stay inspired and informed (recommendations are welcome!).
 - 📚 **Teaching tech concepts** and sharing knowledge on [LinkedIn](https://linkedin.com/in/ibnlanre) and [X](https://www.x.com/ibnlanre)
 
+---
 <br />
 
 ## 🚀 Skills
@@ -48,6 +51,7 @@ When I'm not building UIs, you’ll find me:
 - **Engineering Leadership**: Mentorship, Agile Processes, Cross-Team Collaboration  
 - **Dev Tools**: Git, Webpack, Storybook, Vite  
 
+---
 <br />
 
 ## 🌍 Open Source Contributions  
@@ -57,12 +61,14 @@ I'm an active contributor to open-source projects, focusing on improving the dev
 - Enhance performance and scalability.
 - Promote accessibility and usability.
 
+---
 <br />
 
 ## ⭐ GitHub Stats  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnlanre&layout=compact&theme=default)  
 
+---
 <br />
 
 ## 📬 Let's Connect!
