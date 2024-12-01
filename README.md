@@ -4,6 +4,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/ibnlanre?style=flat-square&color=blue)  
 ![GitHub Stars](https://img.shields.io/github/stars/ibnlanre?style=flat-square&color=yellow)  
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat-square)  
+[![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=flat-square)](https://github.com/ibnlanre?tab=repositories)
 
 ---
 
@@ -20,7 +21,7 @@ When I'm not building UIs, you’ll find me:
 
 ---
 
-## 🚀 Skills  
+## 🚀 Skills
 
 - **Frontend Development**: React, TypeScript, JavaScript, HTML, CSS  
 - **Design**: Figma, UI/UX Principles, Accessibility  
@@ -29,30 +30,58 @@ When I'm not building UIs, you’ll find me:
 
 ---
 
+## Tech Stack
+
+- **Core Development**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+- **State Management**
+
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
+![React Query](https://img.shields.io/badge/react%20query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
+
+- **UI/UX and Styling**
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+
+- **Tooling and Deployment**
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 ## 🌍 Open Source Contributions  
 
 I'm an active contributor to open-source projects, focusing on improving the developer experience within the React ecosystem. My repositories and contributions aim to:  
-- Simplify complex frontend tasks.  
-- Enhance performance and scalability.  
-- Promote accessibility and usability.  
-
-Check out my projects here:  
-[![Repositories Badge](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue)](https://github.com/ridwan-olanrewaju?tab=repositories)  
+- Simplify complex frontend tasks.
+- Enhance performance and scalability.
+- Promote accessibility and usability.
 
 ---
 
 ## 📈 GitHub Stats  
 
-![Ridwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibnlanre&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnlanre&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibnlanre&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnlanre&layout=compact&theme=default)  
 
 ---
 
 ## 🎯 Let's Connect!  
 
-- 💼 [LinkedIn](https://linkedin.com/in/ibnlanre)  
+- 💼 [LinkedIn](https://linkedin.com/in/ibnlanre)
 - 🌐 [Portfolio](https://ibnlanre.vercel.app)
-- 📧 **Email**: [olaitanlanre28@gmail.com](mailto:olaitanlanre28@gmail.com)  
+- 📧 **Email**: [olaitanlanre28@gmail.com](mailto:olaitanlanre28@gmail.com)
 
 ---
 
