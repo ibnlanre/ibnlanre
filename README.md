@@ -1,4 +1,4 @@
-# Hi there! 👋
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=28&pause=1000&color=1F2328&repeat=false&lines=Hi+there!+%F0%9F%91%8B)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ibnlanre&color=blueviolet&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/ibnlanre?style=for-the-badge&color=blue)
